@@ -1,0 +1,13 @@
+{
+  "packageDirectories": [{
+    "default": true,
+    "path": "force-app",
+    "id": "0Ho46000000TN1yCAG",
+    "versionName": "managed-pkg-0",
+    "versionDescription": "managed-pkg-0",
+    "versionNumber": "1.0.0.NEXT"
+  }],
+  "namespace": "asldkjasldkfjas",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
