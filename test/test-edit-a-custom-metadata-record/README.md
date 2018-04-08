@@ -12,6 +12,7 @@ Here is a video walkthrough of the issue and it's workaround: https://youtu.be/y
 
 ```
 sfdx force:org:create -f ./config/project-scratch-def.json -s -a test-edit-a-custom-metadata-record-0
+sfdx force:org:display --verbose
 # install managed-pkg-0 which is in namespace asldkjasldkfjas
 sfdx force:package:install -p 10 -w 10 -i 04t46000000AKjrAAG
 sfdx force:org:open
