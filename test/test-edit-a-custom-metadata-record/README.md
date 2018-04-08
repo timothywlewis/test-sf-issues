@@ -3,7 +3,9 @@
 This is to demonstrate the issue for [Partner Case 18583564][1]
 which was first [posted to SFDX Trailblazer community][2].
 
-Here is a video walkthrough of the issue and it's workaround: https://youtu.be/y27jtpOw5ME
+Here is the initial video walkthrough of the issue and it's workaround: https://youtu.be/y27jtpOw5ME
+
+I replicated it and it is NOT working correctly. The scratch org I just spun up was on CS10 which is running "Spring '18 Patch 15.2". Here is a screencast from today (April 8th, 2018) demonstrating that the issue has not been resolved: https://youtu.be/lO62S1Wh5k4
 
 [1]: https://partners.salesforce.com/partnerCaseDetails?id=5000M00000jth6JQAQ
 [2]: https://success.salesforce.com/0D53A00003TuBxk
