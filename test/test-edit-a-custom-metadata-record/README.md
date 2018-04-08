@@ -15,7 +15,7 @@ sfdx force:org:create -f ./config/project-scratch-def.json -s -a test-edit-a-cus
 sfdx force:org:display --verbose
 # install managed-pkg-0 which is in namespace asldkjasldkfjas
 sfdx force:package:install -p 10 -w 10 -i 04t46000000AKjrAAG
-sfdx force:org:open
+sfdx force:org:open -p "one/one.app#/setup/CustomMetadata/home"
 # Setup > Custom Metadata Types > MyCMT > Manage Records > Edit MyPackagedRecord
 sfdx force:source:pull
 # Expect it to retrieve asldkjasldkfjas__MyCMT.asldkjasldkfjas__MyRecord but instead it displays
