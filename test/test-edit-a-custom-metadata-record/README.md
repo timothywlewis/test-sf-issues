@@ -3,8 +3,6 @@
 This is to demonstrate the issue for [Partner Case 18583564][1]
 which was first [posted to SFDX Trailblazer community][2].
 
-Here is the initial video walkthrough of the issue and it's workaround: https://youtu.be/y27jtpOw5ME
-
 [1]: https://partners.salesforce.com/partnerCaseDetails?id=5000M00000jth6JQAQ
 [2]: https://success.salesforce.com/0D53A00003TuBxk
 
@@ -21,6 +19,10 @@ resolved: https://youtu.be/pZUzlJ0o-R0
 I replicated it and it is NOT working correctly. The scratch org I spun up was on CS10 which is
 running "Spring '18 Patch 15.2". Here is a screencast demonstrating that the issue has not been
 resolved: https://youtu.be/lO62S1Wh5k4
+
+### March 20th, 2018
+
+Here is the initial video walkthrough of the issue and it's workaround: https://youtu.be/y27jtpOw5ME
 
 ## Test
 
