@@ -8,6 +8,12 @@ which was first [posted to SFDX Trailblazer community][2].
 
 ## Updates
 
+### April 24, 2018
+
+Update from Salesforce:
+
+> "Here is the bug number for future reference W-4920690 to contact Salesforce for an update. We are not creating a Known Issue at this time since there are not multiple cases opened. Currently, we do not have an ETA regarding the fix but the bug is logged and R&D is working on the bug."
+
 ### April 13th, 2018
 
 I replicated it and it is NOT working correctly. The scratch org I spun up was on CS60 which is
