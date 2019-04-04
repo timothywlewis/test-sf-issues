@@ -1,0 +1,17 @@
+{
+    "packageDirectories": [
+        {
+            "default": true,
+            "path": "force-app",
+            "package": "test-sf-issues-1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "asldkjasldkfjas",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "test-sf-issues-1": "0Ho46000000TN4JCAW"
+    }
+}
